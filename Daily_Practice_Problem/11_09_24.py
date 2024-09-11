@@ -25,7 +25,7 @@ class AutoCompleteSystem:
 
 
 
-
+# gpt explanation : https://chatgpt.com/share/2c076d2e-bd8e-4aa3-85ac-097aefdee42b
 
 # Operation:
 # AutoCompleteSystem(["i love you", "island",
