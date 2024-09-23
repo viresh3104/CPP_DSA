@@ -28,3 +28,7 @@ int main() {
     cout << grade << "\n";
     return 0;
 }
+
+
+// we can also use string, array, list, map, set etc. which are known as
+// non primitive datatypes or reference datatypes
