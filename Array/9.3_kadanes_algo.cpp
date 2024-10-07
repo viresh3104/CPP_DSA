@@ -15,6 +15,8 @@ int main(){
             curr_sum = 0;
         }
     }
+    cout << max_sum << endl;
+    
 }
 
 
