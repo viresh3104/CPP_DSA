@@ -17,7 +17,6 @@
 using namespace std;
 
 // brute force approach:
-
 // vector<int> MajorityElement(vector<int> nums){
 //     for(int i = 0 ; i < nums.size() ; i++){
 //         int count = 0;
@@ -50,7 +49,6 @@ int MajorityElement(vector<int> nums){
             frequency = 1;                          // when that two elements are not same then we can reset freq = 1 and ans = next idx
             ans = nums[i];
         }
-
 
         if(frequency > (nums.size()) / 2){
             return ans;
