@@ -1,4 +1,5 @@
 // kadanes_alogrithm
+// maximum sum of subarrays
 
 #include <iostream>
 #include <vector>
